@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gamehub Lite</string>
+    <string name="home_title">Início</string>
+    <string name="games_title">Jogos</string>
+    <string name="favorites_title">Favoritos</string>
+    <string name="settings_title">Configurações</string>
+</resources>
